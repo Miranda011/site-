@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* SITE TODO*/
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}   
+/* RODAPE */
+    footer {
+        background-color: #e00908;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        justify-content: space-between;
+        display: flex;
+    } 
+div{
+    position: absolute;
+    top: 65%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+menu{
+    position: fixed;
+    background-color: #e00908;
+    color: #fff;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100px;
+    float: right;
+    /* position: relative; */
+    text-align: center;
+    width: 100%;
+    border: 1px solid black;
+}
+nav a {
+        font-size: 23px;
+        font-weight: bold;
+        right: 50px;
+}
+nav li{
+    display: inline-block;
+    width: fit-content;
+    line-height: 50px;
+    list-style: none;
+    margin: 0 16px;
+    right: 200px;
+    position: relative;
+}
+.menu {
+    list-style-type: none;
+    margin: 10px;
+    width: 100%;
+    height: 40px;
+    padding: 0;
+    display: flex;
+}  
+
+.menu li {
+    margin-right: 10px;
+}
+
+.menu li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    transition: background-color 0.3s;
+    margin-right: -10px;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    align-items: end;
+}
+
+.menu li a:hover {
+    color: #000000;
+}
+.logo img {
+    margin-right: 45px; /* Espaçamento entre a imagem e o texto */
+    height: 150px; /* Altura da imagem */
+    margin-top: -50px; /* Ajuste a margem superior para mover a imagem mais para cima */
+    width: 100px;
+}
+footer a {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+}
+ 
+footer li{
+    display: inline-block;
+    width: fit-content;
+    height: 48px;
+    line-height: 48px;
+    list-style: none;
+    margin: 0 16px;
+}
+.links li a{ 
+    position: relative;
+    right: -1020px;
+    margin-top: -50px;
+}
+footer a:hover{
+    color: #000000;
+}
+.rodape{
+    display: flex;
+    align-items: center;
+}
+.rodape2{
+    display: flex;
+    align-items: center;    
+}
+.rodape p{
+    font-size: 20px;
+}

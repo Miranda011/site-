@@ -1,0 +1,53 @@
+.tenispreto {
+    position: absolute;
+    top: 37%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+    height: 330px;
+    width: 500pxS;
+}
+.tenisvermelho{
+    position: absolute;
+    top: 38%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    height: 250px;
+    width: 450px;
+}
+.botao a{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 60px;
+    }
+    .botao2 a{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 20px;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 800px;
+    }
+    .texto{
+        font-size: 20px;
+        left: 70px;
+        top: -20px;
+        text-align: center;
+        display: flex;
+    }
+.texto2{
+    font-size: 20px;
+    top: -20px;
+    text-align: center;
+    display: flex;
+    left: 875px;
+}

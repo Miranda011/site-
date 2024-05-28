@@ -1,0 +1,28 @@
+.entregastitulo{
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    position: absolute;
+    text-align: left;
+    margin-top: 130px;
+    margin-left: 150px;
+    padding: 10px;
+    width: 600px;
+    word-wrap: break-word;
+}
+.entregasparagrafo{
+    font-size: 20px;
+    text-align: left;
+    font-style: italic;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 150px;
+    padding: 10px;
+    width: 500px;
+    word-wrap: break-word;
+}
+.imgentregas{
+    position: relative;
+    margin-left: 900px;
+    margin-top: 90px;
+}

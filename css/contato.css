@@ -1,0 +1,60 @@
+
+form{
+    position: absolute;
+    left: 100px;
+    margin-top: 250px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.botoes{
+    position: relative;
+    margin-top: 50px;
+    left: 210px;
+    top: -30px;
+}
+.botoes input{
+    height: 30px;
+    width: 190px;
+    border-radius: 10px;
+    background-color: lavender;
+    border: none;
+}
+.botoes input:focus{
+    outline: none;
+    box-shadow: 0px 0px 8px skyblue;
+}
+.titulo{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+input[type=tel],
+input[type=email],
+input[type=text],
+textarea{
+    height: 20px;
+    background-color: lavender;
+    border: none;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 15px;
+}
+input[type=tel]:focus,
+input[type=email]:focus,
+input[type=text],
+textarea { 
+    outline: none;
+    box-shadow: 0px 0px 8px skyblue;
+}
+textarea{
+    width: 400px;
+    height: 200px;
+    resize: none;
+}
+.social{
+    position: relative;
+    left: 1500px;
+}
+

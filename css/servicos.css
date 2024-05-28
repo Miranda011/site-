@@ -1,0 +1,60 @@
+.servicos1{
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 150px;
+}
+.textop1{
+    font-size: 25px;
+    text-align: left;
+    font-style: italic;
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 170px;
+    padding: 10px;
+    width: 450px;
+    word-wrap: break-word;
+}
+.servicos2{
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 953px;
+}
+.textop2{
+    font-size: 25px;
+    text-align: left;
+    font-style: italic;
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 970px;
+    padding: 10px;
+    width: 460px;
+    word-wrap: break-word;
+}
+.entregastexto{
+        font-size: 23px;
+        right: 50px;
+        position: absolute;
+        margin-top: 417px;
+        margin-right: 1250px;
+        list-style: none;
+}
+.entregastexto li a{
+    text-decoration: none;
+}
+.devolucoestexto{
+        font-size: 23px;
+        right: 50px;
+        position: absolute;
+        margin-top: 445px;
+        margin-right: 420px;
+        list-style: none;
+}
+.devolucoestexto li a{
+    text-decoration: none;
+}
