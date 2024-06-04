@@ -40,12 +40,9 @@ menu{
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    height: 100px;
-    float: right;
-    /* position: relative; */
+    height: 90px;
     text-align: center;
     width: 100%;
-    border: 1px solid black;
 }
 nav a {
         font-size: 23px;

@@ -1,18 +1,18 @@
 .tenispreto {
     position: absolute;
-    top: 37%;
-    left: 72%;
+    top: -200px;
+    left: 650px;
     transform: translate(-50%, -50%);
-    height: 330px;
-    width: 500pxS;
+    height: 250px;
+    width: 400px;
 }
 .tenisvermelho{
     position: absolute;
-    top: 38%;
+    top: 230px;
     left: 25%;
     transform: translate(-50%, -50%);
-    height: 250px;
-    width: 450px;
+    height: 200px;
+    width: 400px;
 }
 .botao a{
     background-color: #4CAF50;
@@ -35,7 +35,7 @@
     border-radius: 20px;
     position: absolute;
     margin-top: 60px;
-    margin-left: 800px;
+    margin-left: 600px;
     }
     .texto{
         font-size: 20px;
@@ -49,5 +49,5 @@
     top: -20px;
     text-align: center;
     display: flex;
-    left: 875px;
+    left: 675px;
 }
