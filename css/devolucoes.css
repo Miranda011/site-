@@ -4,7 +4,7 @@
     font-style: italic;
     position: absolute;
     text-align: left;
-    margin-top: 270px;
+    margin-top: 190px;
     margin-left: 120px;
     padding: -1px;
     width: 800px;
@@ -15,14 +15,14 @@
     text-align: left;
     font-style: italic;
     position: absolute;
-    margin-top: 350px;
-    margin-left: 120px;
+    margin-top: 250px;
+    margin-left: 110px;
     padding: 10px;
     width: 500px;
     word-wrap: break-word;
 }
 .dimg{
     position: absolute;
-    margin-top: 200px;
+    margin-top: 140px;
     margin-left: 900px;
 }
